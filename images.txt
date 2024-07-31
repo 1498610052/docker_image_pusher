@@ -11,3 +11,4 @@ maven:3.9-eclipse-temurin-21-alpine
 eclipse-temurin:8-jre
 eclipse-temurin:17-jre
 eclipse-temurin:21-jre
+synctvorg/synctv:latest
