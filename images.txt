@@ -1,1 +1,1 @@
-bosnzt/showta
+synctvorg/synctv:latest
