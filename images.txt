@@ -1,1 +1,1 @@
-synctvorg/synctv:latest
+xhofe/alist:latest
